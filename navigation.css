@@ -1,0 +1,51 @@
+   
+*{
+        margin: 0px;
+        padding: 0px;
+    }
+    div{
+        float: left;
+        box-sizing: border-box;
+    }
+    .navigation{
+        height: 80px;
+        width: 100%;
+        background: #404040;
+    }
+    .logo_area{
+        width: 35%;
+        margin-top: 5px;
+    }
+    .inner_nav{
+        float: none;
+        width: 80%;
+        margin: 0px auto;
+    }
+    .nav_area{
+        float: right;
+        line-height: 50px;
+    }
+    .nav_area ul li{
+        list-style: none;
+        float: left;
+        padding: 15px;
+        font-family: 'DroidSerif';
+    }
+    .nav_area ul a{
+        text-decoration: none;
+        color: #aaaaaa;
+    }
+.nav_area ul li:hover {
+        background-color: #505050;
+        transition: 1s;
+        color: white;
+    }
+.nav_area ul li:hover a{
+    transition: 1s;
+        color: white;
+    }
+.home{
+        background-color: #505050;
+        color: white;
+        font-family: 'DroidSerif';
+    }

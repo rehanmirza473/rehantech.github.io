@@ -1,0 +1,74 @@
+ .articles{
+            width: 100%;
+        }
+        .sub_article{
+            float: none;
+            width: 80%;
+            margin: 0px auto;
+        }
+        .article_empty{
+            height: 80px;
+            width: 100%;
+        }
+        .WIDAS{
+            font-size: 20px;
+            color: #9e9e9e;
+        }
+        .article_empty1{
+            height: 50px;
+            width: 100%;
+        }
+        .article_text1{
+            font-size: 15px;
+            text-align: justify;
+            color: #9e9e9e;
+        }
+.input_empty_field1{
+        height: 150px;
+        width: 100%;
+    }
+    .ones1{
+        width: 48%;
+        text-align: justify;
+        margin-top: 20px;
+            color: #9e9e9e;
+    }
+    .two2{
+        width: 48%;
+        float: right;
+        text-align: justify;
+        margin-top: 20px;
+            color: #9e9e9e;
+    }
+    .three3{
+        width: 48%;
+        text-align: justify;
+        margin-top: 20px;
+        float: left;
+            color: #9e9e9e;
+    }
+    .four4{
+        width: 48%;
+        float: right;
+        text-align: justify;
+        margin-top: 20px;
+            color: #9e9e9e;
+    }
+ .footer{
+        width: 100%;
+        height: 60px;
+        background: #404040;
+    }
+    .inner_footer{
+        float: none;
+        width: 60%;
+        height: 60px;
+        margin: 0px auto;
+    }
+    .footer_text{
+        width: 100%;
+        text-align: center;
+        color: #5b5b5b;
+        line-height: 60px;
+        font-size: 20px;
+    }
